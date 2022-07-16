@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\심소휘\\Desktop\\대학교\\소개론\\nodeserver\\funding-tutorial\\contracts\\Fundraising.sol": {
+      "lastModificationDate": 1657715750540,
+      "contentHash": "34bd7606d7e4725581b804360ffe637f",
+      "sourceName": "contracts/Fundraising.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Fundraising"
+      ]
+    }
+  }
+}
